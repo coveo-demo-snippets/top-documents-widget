@@ -1,0 +1,21 @@
+.THIS .coveo-list-layout.CoveoResult {
+    margin: 0;
+}
+
+.THIS #search.CoveoSearchInterface {
+    font-family:Montserrat;
+}
+
+.THIS h2 {
+    font-weight: 700;
+    line-height: 1.4;
+    font-size: 28px;
+}
+
+.THIS .top-documents-header {
+    text-align: center;
+}
+
+.THIS .CoveoSearchInterface {
+    min-width: 0;
+}
