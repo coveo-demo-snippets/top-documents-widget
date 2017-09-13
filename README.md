@@ -13,7 +13,7 @@ This widget displays all the top Documents in your Lightning community.
    
 3. In Preview mode, click on Edit on the component and go to the Code View. Paste the following: (You may need to change the data-data-expression to reflect your actual filetypes. Not you will no longer have access to the Interface Editor....
 
-
+```
     <div id="searchTopDocs" class="CoveoSearchInterface" data-design="new" data-results-per-page="5" 
          data-expression="(@filetype==pdf) OR (@filetype==&quot;YouTubeVideo&quot;)" data-pipeline="recommendations">
         <div class="CoveoAnalytics"></div>
@@ -44,4 +44,5 @@ This widget displays all the top Documents in your Lightning community.
             </div>
         </div>
     </div>
+    ```
     
