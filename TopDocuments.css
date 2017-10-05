@@ -3,7 +3,13 @@
 }
 
 .THIS #search.CoveoSearchInterface {
-    font-family:Montserrat;
+  /*  font-family:Montserrat; */
+    font-family: token(fontFamily);
+}
+
+.THIS{
+    margin: 10px 0;
+    font-family: token(fontFamily);
 }
 
 .THIS h2 {
